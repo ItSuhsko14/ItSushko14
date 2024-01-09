@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is Andriyq</p>
+<p align="center"># 🏠 Hello👋, my name is Andriy</p>
 ### Hello! 👋 I'm Andriy, front-end developer specializing in React, Redux, Next.js, Node.js, and MongoDB. With over two years of experience, I've successfully delivered 10+ projects for various businesses, particularly excelling in the hospitality and restaurant industry. Currently seeking a dynamic team with challenging web development projects. Let's connect and build something remarkable!
 
 
